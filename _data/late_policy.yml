@@ -1,4 +1,9 @@
 policies:
-  - You have free 8 late days.
-  - You can use late days for assignments. A late day extends the deadline 24 hours.
-  - Once you have used all 8 late days, the penalty is 10% for each additional late day.
+  - Late assignments will be penalized 10% of the maximum possible score for each 24 period (or fraction thereof) they are late.
+
+  - So if it’s due at 10:00PM on 25-October and you submit it at 10:12PM on 25-October or 09:00AM on 26-October, 10% of the maximum score will be deducted from your final score.
+
+# There are no extensions for lab assignments, so plan your time carefully.
+  # - You have free 8 late days.
+  # - You can use late days for assignments. A late day extends the deadline 24 hours.
+  # - Once you have used all 8 late days, the penalty is 10% for each additional late day.
