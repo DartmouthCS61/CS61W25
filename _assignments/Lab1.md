@@ -1,6 +1,7 @@
 ---
 type: assignment
 date: 2025-01-13T4:00:00-04:00
+due:  2025-01-19T4:22:00-04:00
 title: 'Lab #1'
 pdf: /static_files/assignments/lab1.pdf
 # attachment: /static_files/assignments/asg.zip
