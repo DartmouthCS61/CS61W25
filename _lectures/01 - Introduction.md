@@ -1,12 +1,30 @@
 ---
-layout:   page
-title:    Introduction and motivation
-type:     Lecture
-author:   Charles C. Palmer
-abstract: Why Databases?
-classdate:     2022-09-12
-order:    01
----
+type: lecture
+date: 2025-01-06T11:30-04:00
+title: Introduction and motivation
+
+# optional
+# please use /static_files/notes directory to store notes
+thumbnail: /static_files/path/to/image.jpg
+
+# optional
+tldr: "What is AI? How does it impact our lives? The current state of the art."
+  
+# optional
+# set it to true if you dont want this lecture to appear in the updates section
+hide_from_announcments: false
+
+# optional
+links: 
+    # - url: /static_files/presentations/lec.zip
+      # name: notes
+    # - url: /static_files/presentations/code.zip
+      # name: codes
+    # - url: https://google.com
+      # name: slides
+    # - url: https://example.com
+      # name: other
+------
 
 # Introduction
 
