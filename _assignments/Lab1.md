@@ -7,7 +7,7 @@ pdf: /static_files/assignments/lab1.pdf
 # solutions: /static_files/assignments/asg_solutions.pdf
 due_event: 
     type: due
-    date: 2025-01-19T23:59:00-04:00
+    date: 2025-01-19T22:00:00-04:00
     description: 'Assignment #1 due'
 ---
 
